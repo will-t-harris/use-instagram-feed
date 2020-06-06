@@ -9,9 +9,9 @@ or
 
 To use, pass the:
 
-- instagram user id as a string (I have used [this online tool to find user ids](https://codeofaninja.com/tools/find-instagram-user-id))
-- thumbnailWidth as a number
-- photoCount as a number
+- instagram user id: string (I have used [this online tool to find user ids](https://codeofaninja.com/tools/find-instagram-user-id))
+- thumbnailWidth: number
+- photoCount: number
   
 ```js
 import {useInstagramFeed} from use-instagram-feed
