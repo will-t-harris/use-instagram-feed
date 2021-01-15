@@ -14,7 +14,7 @@ To use, pass the:
 - photoCount: number
   
 ```js
-import {useInstagramFeed} from use-instagram-feed
+import {useInstagramFeed} from 'use-instagram-feed'
 
 const App = () => {
   let photos = useInstagramFeed({
